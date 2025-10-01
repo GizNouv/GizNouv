@@ -1,6 +1,6 @@
 ![banner of programmer](https://github.com/GizNouv/Hepta/assets/131180327/18dc1dd6-a193-4564-876d-d875bd060f0f)
 <h1 align="center">Hi 👋, I'm Hussein Mazlumi</h1>
-<h3 align="center" style="margin-bottom : 20px;">A junior front-end developer</h3>
+<h3 align="center" style="margin-bottom : 20px;">A front-end developer</h3>
 <br/>
 <br/>
 <img style="border-radius: 30px;" align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
