@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giznouv&label=Profile%20views&color=0e75b6&style=flat" alt="giznouv" /> </p>
 
-- 🌱 I’m currently learning **programmign tools for web development**
+- 🌱 Constantly expanding my knowledge of programming tools and software engineering architectures for modern web development
 
-- 👯 I’m looking to collaborate on **real projects**
+- 👯 Open to collaborating on innovative and impact-driven projects
 
-- 👀 I’m interested in **UI design and front-end development**
+- 👀 Passionate about UI design and front-end development
 
-- 💬 Ask me about **HTML , CSS , javaScript and React.js**
+- 💬 Feel free to ask me about Design Patterns, performance optimization, and project architecture flow
 
-- 📫 How to reach me **giznouv@gmail.com**
+- 📫 Reach me at: giznouv@gmail.com
 
 <br/>
 <hr/>
